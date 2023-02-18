@@ -37,6 +37,8 @@ body {
     background-color: white;
 }
 
+/* fundo do espaço */
+
 .espaco {
     background-image: url("../imagens/espaco.jpg");
     background-color: white;
@@ -46,7 +48,9 @@ body {
     background-size: cover;
     position: relative;
   }
-  
+
+/* fundo da terra */
+
 .terra {
     position: absolute;
     top: 0;
@@ -120,7 +124,7 @@ tr:nth-child(even) {
 
 /* fonte da informação */
 
-p {
+.fonte > p {
     margin: 10px;
     text-align: center;
 }
