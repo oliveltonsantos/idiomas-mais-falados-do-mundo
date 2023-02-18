@@ -120,7 +120,8 @@ tr:nth-child(even) {
 
 /* fonte da informação */
 
-.container > p {
+p {
+    margin: 10px;
     text-align: center;
 }
 
