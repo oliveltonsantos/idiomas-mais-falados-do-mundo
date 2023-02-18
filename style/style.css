@@ -6,6 +6,15 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
 
+@keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
 /* pseudo-classe */
 
 :root {
@@ -28,40 +37,50 @@ body {
     background-color: white;
 }
 
-.fundo {
-    background-image: url(../imagens/espaco.jpg);
-    background-size: cover;
-    background-position: center center;
-    width: 100%;
+.espaco {
+    background-image: url("../imagens/espaco.jpg");
+    background-color: white;
     height: 100vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
     position: relative;
-
-}
+  }
 
 .terra {
-    background-image: url(../imagens/planeta.png);
-    width: 500px;
-    height: 500px;
     position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    background-image: url(https://i.pinimg.com/originals/17/27/41/17274108e807373b99c46a573c78580b.jpg);
+    border-radius: 50%;
+    background-size: cover;
+    box-shadow: -20px -20px 50px 2px #000 inset, 0 0 20px 2px #000;
+    animation: spin 30s alternate infinite;
 }
 
-.terra > h1 {
+@keyframes spin {
+    100% {background-position: 100%}
+}
+
+.texto {
     font-family: var(--fonte-destaque);
     text-align: center;
-    text-shadow: 2px 2px 2px black;
-    color: white;
-    width: 300px;
     position: absolute;
-    left: 50%;
     top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
+    color: white;
 }
+  
 
-.terra {
+  
 
-    min-width: 300px;
-    height: 500px;
-}
+
+
+
+
