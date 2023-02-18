@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+/* fontes */
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+/* pseudo-classe */
+
+:root {
+    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --fonte-destaque: 'Pacifico';
+    --fonte-texto: 'Open+Sans';
+}
+
+/* configurações globais */
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* configurações gerais do body */
+
+body {
+    font-family: var(--fonte-padrao);
+    background-color: white;
+}
+
+.fundo {
+    background-image: url(../imagens/espaco.jpg);
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+
+}
+
+.terra {
+    background-image: url(../imagens/planeta.png);
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.terra > h1 {
+    font-family: var(--fonte-destaque);
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+    color: white;
+    width: 300px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.terra {
+
+    min-width: 300px;
+    height: 500px;
+}
