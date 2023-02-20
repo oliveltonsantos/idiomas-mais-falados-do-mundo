@@ -4,7 +4,7 @@
 
 Já tenho uma relação bem íntima com idiomas desde 2018 quando decidi aprender inglês, basicamente os meus projetos sempre têm alguma relação com este assunto.
 
-Inspirado por um post criado pelo meu amigo Gabriel Noah no seu projeto a Saga Linguística, decidi criar uma landing page básica, mas que tivesse os seguintes requisitos aprendidos no módulo 3 do curso de HTML5 e CSS3 do professor Guanabara.
+Inspirado por um [post]( https://www.instagram.com/p/CoskDSyu1CL/ ) criado pelo meu amigo [Gabriel Noah]( https://www.instagram.com/gabnoah.coffee/ ) no seu projeto a [Saga Linguística]( https://www.instagram.com/sagalinguistica/ ), decidi criar uma landing page básica, mas que tivesse os seguintes requisitos aprendidos no módulo 3 do curso de HTML5 e CSS3 do professor Guanabara.
 
 - Imagens de fundo
 - Efeito Parallax
