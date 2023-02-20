@@ -49,6 +49,7 @@ A segunda fonte utilizada foi a [Inter]( https://fonts.google.com/specimen/Inter
 
 <details>
 <summary>Animação do planeta</summary>
+ 
 Essa parte foi a que deu mais trabalho, a ideia inicial era apenas colocar uma imagem de um globo e criar uma animação de rotação.
 
 Na minha cabeça era simples, passaram-se algumas horas de pesquisa e testes incansáveis e não consegui um resultado interessante.
