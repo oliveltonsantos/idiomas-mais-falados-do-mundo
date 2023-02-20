@@ -108,6 +108,8 @@ caption {
     font-weight: bold;
     font-family: var(--fonte-texto);
     padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 
 th, td {
@@ -128,6 +130,7 @@ tr:nth-child(even) {
 
 .container {
     overflow-x: auto;
+    margin: 10px;
 }
 
 /* fonte da informação dos idiomas*/
