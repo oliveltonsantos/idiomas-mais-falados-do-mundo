@@ -33,7 +33,7 @@ body {
 
 /* textos gerais*/
 
-h2 {
+h2, h3 {
     font-family: var(--fonte-texto);
     color: var(--corprimaria);
     text-align: center;
