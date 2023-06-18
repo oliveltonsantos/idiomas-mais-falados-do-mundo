@@ -12,8 +12,8 @@ Inspirado por um [post]( https://www.instagram.com/p/CoskDSyu1CL/ ) criado pelo 
 
 ### 🛠 Tecnologias utilizadas:
 
-- HTML5
-- CSS3
+- HTML 5
+- CSS 3
 
 ##
 
