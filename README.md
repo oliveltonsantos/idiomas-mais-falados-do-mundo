@@ -96,9 +96,3 @@ https://user-images.githubusercontent.com/124373744/222978315-ec9cc4e7-e1d4-492e
 ### 💬 Sugestões:
 
 Fico aberto a sugestões de melhoria e ideias, caso você tenha alguma basta me enviar uma mensagem no [LinkedIn](https://www.linkedin.com/in/olivelton-santos).
-
-##
-
-### 📱 Acompanhe a minha jornada:
-
-[clique aqui!](https://oliveltonsantos.github.io/card-links/) 
