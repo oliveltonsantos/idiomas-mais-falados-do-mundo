@@ -1,4 +1,4 @@
-### 💡 Ideia do projeto:
+### 💡 Sobre o projeto:
 
 Já tenho uma relação bem íntima com idiomas desde 2018 quando decidi aprender inglês, basicamente os meus projetos sempre têm alguma relação com este assunto.
 
